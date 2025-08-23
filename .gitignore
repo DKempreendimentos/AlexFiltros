@@ -1,0 +1,29 @@
+Node.js
+node_modules/
+.env
+*.log
+*.lock
+package-lock.json
+
+Google API credentials
+credenciais.json
+
+VSCode
+.vscode/
+
+Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+Arquivos temporários
+*.tmp
+*.temp
+*.swp
+
+Build/output (se usar futuramente)
+dist/
+build/
+
+Backup
+*~
